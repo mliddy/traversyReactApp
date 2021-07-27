@@ -2,6 +2,7 @@
   "name": "traversy-todo",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mliddy.github.io/traversyReactApp/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
@@ -11,8 +12,7 @@
     "react-icons": "^4.2.0",
     "react-scripts": "4.0.3",
     "gh-pages": "^3.2.3",
-    "web-vitals": "^1.1.2",
-    "homepage": "https://mliddy.github.io/traversyReactApp/"
+    "web-vitals": "^1.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
