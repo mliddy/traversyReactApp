@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/traversyReactApp/static/css/main.ad26b819.chunk.css",
+    "main.js": "/traversyReactApp/static/js/main.b33475c7.chunk.js",
+    "main.js.map": "/traversyReactApp/static/js/main.b33475c7.chunk.js.map",
+    "runtime-main.js": "/traversyReactApp/static/js/runtime-main.baf747e0.js",
+    "runtime-main.js.map": "/traversyReactApp/static/js/runtime-main.baf747e0.js.map",
+    "static/js/2.203bc1c1.chunk.js": "/traversyReactApp/static/js/2.203bc1c1.chunk.js",
+    "static/js/2.203bc1c1.chunk.js.map": "/traversyReactApp/static/js/2.203bc1c1.chunk.js.map",
+    "static/js/3.0c60b4f8.chunk.js": "/traversyReactApp/static/js/3.0c60b4f8.chunk.js",
+    "static/js/3.0c60b4f8.chunk.js.map": "/traversyReactApp/static/js/3.0c60b4f8.chunk.js.map",
+    "index.html": "/traversyReactApp/index.html",
+    "static/css/main.ad26b819.chunk.css.map": "/traversyReactApp/static/css/main.ad26b819.chunk.css.map",
+    "static/js/2.203bc1c1.chunk.js.LICENSE.txt": "/traversyReactApp/static/js/2.203bc1c1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baf747e0.js",
+    "static/js/2.203bc1c1.chunk.js",
+    "static/css/main.ad26b819.chunk.css",
+    "static/js/main.b33475c7.chunk.js"
+  ]
+}
